@@ -12,6 +12,7 @@ Cấu trúc gồm có 3 phần chính:
 Sau khi xây dựng mô hình và đánh giá mình có deploy mô hình sử dụng Flask.
 
 Trong quá trình xây dựng mình có tham khảo project: https://github.com/nlpyang/BertSum
+
 Lưu ý:
 Một số tập dữ liệu và trọng số mô hình sau khi train có thể tìm thấy ở đây: https://drive.google.com/drive/folders/1LM62QgHA7LPE68uIlD6RMmH2F1en4nod?usp=sharing
 
