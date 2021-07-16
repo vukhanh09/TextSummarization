@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Summarization</title>
+    <style>
+    h4 {
+
+        text-align: center;
+        font: italic 200% ;
+    }
+
+    h2,p,div {
+        text-align: center;
+        font: italic 200% ;
+    }
+    </style>
+</head>
+<body>
+
+
+
+<h1>Select Model</h1>
+
+<form method="POST">
+    <input type="radio" name="options" id="option1" value="option1"> BertSum </input><br>
+    <input type="radio" name="options" id="option2" value="option2"> K-Means </input><br>
+    <div  method="POST">
+        <h2>Content</h2>
+        <textarea name="message" class="center" rows="10" cols="100" placeholder="Write your article..."></textarea>
+            <br><br>
+        <input type="reset" class="center" value="Reset">
+        <input type="submit" class="center">
+    </div>
+</form>
+
+
+</body>
+</html>
