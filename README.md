@@ -9,7 +9,7 @@ Cấu trúc gồm có 3 phần chính:
 + Training
 + Predict
 
-Sau khi xây dựng mô hình và đánh giá mình có deploy mô hình sử dụng Flask.
+Sau khi xây dựng mô hình và đánh giá thì model được deploy thông qua Flask Framework.
 
 Trong quá trình xây dựng mình có tham khảo project: https://github.com/nlpyang/BertSum
 
